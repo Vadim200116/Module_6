@@ -8,7 +8,7 @@ header{
     align-items: center;
     justify-content: center;
     height: 400px;
-    background:url("/images/header.jfif") bottom no-repeat ;
+    background:url("../images/header.jfif") bottom no-repeat ;
     background-size: cover;
 }
 body{
